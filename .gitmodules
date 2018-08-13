@@ -1,0 +1,4 @@
+
+[submodule "projects/subRepo"]
+	path = projects/subRepo
+	url = git@github.com:sotongc/subRepo.git
