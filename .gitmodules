@@ -2,3 +2,6 @@
 [submodule "projects/subRepo"]
 	path = projects/subRepo
 	url = git@github.com:sotongc/subRepo.git
+[submodule "projects/subRepo1"]
+	path = projects/subRepo1
+	url = git@github.com:sotongc/subRepo1.git
